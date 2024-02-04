@@ -1,1 +1,2 @@
-# EE562-Artificial-Intelligence
+# EE562-Artificial Intelligence
+(Autumn 2023)
